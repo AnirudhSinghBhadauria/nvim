@@ -104,7 +104,3 @@ return {
 --     darkpurple = "#B480D6",
 --     darkorange = "#E2795B",
 -- }
---
--- local colors = {
---     main = mainColors,
--- }
