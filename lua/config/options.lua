@@ -4,6 +4,11 @@
 
 vim.opt.relativenumber = true
 vim.opt.wrap = true
+vim.opt.shadafile = "NONE"
+vim.diagnostic.open_float()
 
 -- deep ocena theme
-vim.g.material_style = "deep ocean"
+-- vim.g.material_style = "deep ocean"
+
+-- IBM theme!
+vim.opt.background = "dark" -- set this to dark or light
